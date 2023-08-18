@@ -1,8 +1,8 @@
-# [Your NuGet Package Name]
+# AresClient
 
 [![NuGet version](https://img.shields.io/nuget/v/AresClient.svg)](https://www.nuget.org/packages/AresClient)
 [![NuGet downloads](https://img.shields.io/nuget/dt/AresClient.svg)](https://www.nuget.org/packages/AresClient/)
-[![Build Status](https://your-ci-badge-link-here)](https://your-ci-url-here)
+
 
 Welcome to **AresClient**! This package provides [brief description of what it does].
 
