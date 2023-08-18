@@ -2,7 +2,7 @@
 
 namespace AresClient;
 
-public class Class1
+public class AresClient
 {
     public void Log(string text)
     {
