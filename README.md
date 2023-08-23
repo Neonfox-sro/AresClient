@@ -4,19 +4,15 @@
 [![NuGet downloads](https://img.shields.io/nuget/dt/AresClient.svg)](https://www.nuget.org/packages/AresClient/)
 
 
-Welcome to **AresClient**! This package provides [brief description of what it does].
-
-## 🌟 _Why is it special?_ 🌟  
-[Some compelling reasons why someone should use your package. Maybe it's super fast, or maybe it fills a niche need.]
+Welcome to **AresClient**! This package provides data from ARES in one small Nuget Package. If you have some ideas how to improve, feel free contact us here or info@neonfox.tech.
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
 - .NET 7.0 core
-- [Any other prerequisites]
 
 ### Installation
 
 ```bash
-Install-Package AresClient -Version 1.0.0
+Install-Package AresClient -Version 1.0.3
